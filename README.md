@@ -30,5 +30,5 @@ Farklı makine öğrenmesi modelleri karşılaştırılmış ve en iyi performan
 gösteren model belirlenmiştir.
 
 ## 📁 Dosyalar
-- `Car_Price.cav` : Veri seti
+- `Car_Price.csv` : Veri seti
 - `Araç_Fiyat_Tahmin.ipynb` : Veri analizi, modelleme ve sonuçlar
